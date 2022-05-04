@@ -1,5 +1,5 @@
 
-![[Pasted image 20220504092137.png]]
+![[../files/bg1.png]]
 
 ---
 # Articles Map
