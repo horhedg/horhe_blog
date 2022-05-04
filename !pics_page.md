@@ -9,6 +9,8 @@
 ![[bg6.png]]
 
 
+![[Pasted image 20220504095311.png]]
+
 
 
 

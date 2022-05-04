@@ -2,8 +2,8 @@
 ---
 ### Navigation
 [Sitemap](./site_map.md)
-[Back ->](./site_map.md)
-[Main page](README.md)
+[Back ->](../site_map.md)
+[Main page](../README.md)
 
 ----
 Some text

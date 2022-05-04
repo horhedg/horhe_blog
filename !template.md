@@ -50,5 +50,7 @@ pics
 https://www.pexels.com/ru-ru/search/computer/
 ![Image](../files/bg1.png)
 
+Github Hates files with underscore at start, may be some feature for hide files?
+
 ```
 
