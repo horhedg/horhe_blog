@@ -54,3 +54,16 @@ Github Hates files with underscore at start, may be some feature for hide files?
 
 ```
 
+### Thanks page
+```
+
+[Thanks](../../../../notes/Thanks_page.md)
+
+```
+
+### Sign
+```
+[Thanks](../../../../notes/Thanks_page.md),
+George K.
+```
+

@@ -7,4 +7,8 @@ thm + lets defend
 
 add thanks page 
 
+---
+[Thanks](../../../../notes/Thanks_page.md),
+George K.
 
+---
