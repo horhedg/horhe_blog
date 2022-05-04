@@ -1,6 +1,6 @@
 
 
-![Image](../files/bg1.png)
+![banner](../files/_bg1.png)
 
 ---
 # Articles Map
