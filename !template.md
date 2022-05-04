@@ -48,7 +48,7 @@ George K.
 pics
 
 https://www.pexels.com/ru-ru/search/computer/
-![img](../files/bg1.png)
+![Image](../files/bg1.png)
 
 ```
 
