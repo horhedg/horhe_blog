@@ -15,7 +15,7 @@ Some text
 
 
 ---
-[Thanks](../../../../notes/Thanks_page.md),
+[Thanks](../../../../horhe_blog/notes/Thanks_page.md),
 George K.
 
 ---
