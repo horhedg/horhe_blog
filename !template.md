@@ -67,3 +67,8 @@ Github Hates files with underscore at start, may be some feature for hide files?
 George K.
 ```
 
+
+### Info page
+```
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
+```
