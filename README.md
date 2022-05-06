@@ -15,7 +15,7 @@ And also check Thanks page - [Thanks](../../../../horhe_blog/notes/Thanks_page.m
 
 
 --------
-[Thanks](../../../../horhe_blog/notes/Thanks_page.md),
+[Thanks](./notes/Thanks_page.md),
 George K.
 
 ---
