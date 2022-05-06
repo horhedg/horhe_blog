@@ -15,7 +15,8 @@ And also check Thanks page - [Thanks](../../../../horhe_blog/notes/Thanks_page.m
 
 
 
-Test page with cheats sheets - [file_test_pdf](./files/test.pdf)
+Test page with cheats sheets - [file_test_pdf_html](./files/test.html)
+
 
 
 --------
