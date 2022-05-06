@@ -14,6 +14,10 @@ Read [Disclaimer](./notes/Disclaimer.md)
 And also check Thanks page - [Thanks](../../../../horhe_blog/notes/Thanks_page.md)
 
 
+
+Test page with cheats sheets - [file_test_pdf](./files/test.pdf)
+
+
 --------
 [Thanks](./notes/Thanks_page.md),
 George K.
