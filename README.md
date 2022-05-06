@@ -1,4 +1,4 @@
-![img](./files/bg4.png)
+![img](./files/crop_bg1.png)
 # horhe_blog
 --------
 
