@@ -11,7 +11,7 @@
 ----
 [Reverse](./Reverse/!reverse_template.md)
 
-[Reverse Map](./Reverse_map.md)
+[Reverse Map](./Reverse/Reverse_map.md)
 
 
 ---
