@@ -6,6 +6,20 @@ Hello.
 This is small website with my notes and other people articles
 
 --------
+## New released pages
+
+[malware - 26b7c7079cfea22cd9335b788db32453a727c81aec313a3637391a9763434f0a](./articles/Reverse/analyze/26b7c7079cfea22cd9335b788db32453a727c81aec313a3637391a9763434f0a.md)
+
+Read [Disclaimer](./notes/Disclaimer.md) 
+
+[Thanks](./notes/Thanks_page.md),
+George K.
+
+---
+-------
+## **Other pages in development...**
+---
+---
 
 For more info check [Sitemap](./site_map.md)
 
